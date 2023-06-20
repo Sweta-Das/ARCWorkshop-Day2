@@ -3,7 +3,7 @@ Python Codes for understanding Classes, Objects, Modules, and PIP.
 ## Class
 A class is the user-defined blueprint of objects. It provides a means of bundling data & functionality together. The syntax for class definition:
 
-class Class_Name:
+class Class_Name:__
   //body_statement
 
 The class creates a user-defined data structure, which holds its own data members and functions together. Some key points related to Python class:
