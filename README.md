@@ -20,7 +20,7 @@ An object is an instance of a class i.e., a copy of the class with actual values
 
 The syntax for object:
 
-obj = ClassName()
+obj = ClassName() <br/>
 print(obj.attr)
 
 
