@@ -25,7 +25,7 @@ print(obj.attr)
 
 
 ![Class Obj](https://github.com/Sweta-Das/ARCWorkshop-Day2/assets/73231461/8286a563-52d7-46c5-90e4-2fe7855f783c)
-P.C. https://intellipaat.com/mediaFiles/2019/03/python10.png
+<br/>P.C. https://intellipaat.com/mediaFiles/2019/03/python10.png
 
 
 ## Modules in Python
