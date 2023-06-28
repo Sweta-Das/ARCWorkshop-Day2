@@ -32,9 +32,9 @@ print(obj.attr)
 A module is a file written in Python and saved with a ".py" file extension. It organizes code into logical units, promotes code reuse, and makes maintaining and understanding the codebase easier.<br/>
 Python provides a rich set of modules in its standard library with pre-written modules that get downloaded with the installation of Python. These modules cover a wide range of functionalities, such as file I/O, networking, database access, mathematical operations, data serialization, etc.<br/>
 To use a module in Python:<br/>
-import module_name <br/>Or,<br/><br/>
+import module_name <br/><br/>Or,<br/><br/>
 from math import module_name<br/><br/>
-User-defined modules can also be created by defining functions, classes, or variables in a .py file and then importing them into other Python scripts.<br/>
+User-defined modules can also be created by defining functions, classes, or variables in a .py file and then importing them into other Python scripts.
 Python also allows downloading of 3rd-party modules using "pip" package managers.
 
 ## PIP in Python
