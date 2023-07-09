@@ -3,8 +3,8 @@ Python Codes for understanding Classes, Objects, Modules, and PIP.
 ## Class
 A class is the user-defined blueprint of objects. It provides a means of bundling data & functionality together. The syntax for class definition:
 
-class Class_Name:<br/>
-  //body_statement
+>>class Class_Name:<br/>
+    //body_statement
 
 The class creates a user-defined data structure, which holds its own data members and functions together. Some key points related to Python class:
   - Classes are created by the keyword "class".
@@ -20,8 +20,8 @@ An object is an instance of a class i.e., a copy of the class with actual values
 
 The syntax for object:
 
-obj = ClassName() <br/>
-print(obj.attr)
+>>obj = ClassName() <br/>
+>>print(obj.attr)
 
 
 ![Class Obj](https://github.com/Sweta-Das/ARCWorkshop-Day2/assets/73231461/8286a563-52d7-46c5-90e4-2fe7855f783c)
@@ -38,3 +38,13 @@ User-defined modules can also be created by defining functions, classes, or vari
 Python also allows downloading of 3rd-party modules using "pip" package managers.
 
 ## PIP in Python
+PIP is the abbreviation of "Python Package Installer". It's a package manager for Python, which is used to install, upgrade, and manage software packages or libraries written in Python. It lets us easily install packages from the Python Package Index (PyPI) and other sources.<br/>
+Some of the commonly used commands of PIP:<br/>
+1. Installing a package. <br/>
+>>pip install package_name <br/><br/>
+2. Installing a specific version of a package.<br/>
+>>pip install package_name==version_number<br/><br/>
+3. Upgrading a package.<br/>
+>>pip install --upgrade package_name<br/><br/>
+4. Uninstalling a package.<br/>
+>>pip uninstall package_name<br/><br/>
